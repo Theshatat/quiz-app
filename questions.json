@@ -1,0 +1,90 @@
+[
+  {
+    "title": "what color is Giraffe's tongue?",
+    "answer_1": "red",
+    "answer_2": "blue",
+    "answer_3": "green",
+    "answer_4": "orange",
+    "right_ans": "blue"
+  },
+  {
+    "title": "what is 3 to the power 2?",
+    "answer_1": "6",
+    "answer_2": "9",
+    "answer_3": "8",
+    "answer_4": "5",
+    "right_ans": "9"
+  },
+  {
+    "title": "What country has the highest life expectancy?",
+    "answer_1": "Paris",
+    "answer_2": "London",
+    "answer_3": "NewYork",
+    "answer_4": "Hong Kong",
+    "right_ans": "Hong Kong"
+  },
+  {
+    "title": "Which language has the more native speakers?",
+    "answer_1": "English",
+    "answer_2": "Spanish",
+    "answer_3": "Portuguese",
+    "answer_4": "Arabic",
+    "right_ans": "Spanish"
+  },
+  {
+    "title": "What is the most common surname in the United States?",
+    "answer_1": "John",
+    "answer_2": "Smith",
+    "answer_3": "Jack",
+    "answer_4": "Tony",
+    "right_ans": "Smith"
+  },
+  {
+    "title": "Who was the Ancient Greek God of the Sun?",
+    "answer_1": "Apollo",
+    "answer_2": "Raaa",
+    "answer_3": "Eros",
+    "answer_4": "Ares",
+    "right_ans": "Apollo"
+  },
+  {
+    "title": "What year was the United Nations established?",
+    "answer_1": "1945",
+    "answer_2": "1950",
+    "answer_3": "1955",
+    "answer_4": "1960",
+    "right_ans": "1945"
+  },
+  {
+    "title": "What artist has the most streams on Spotify?",
+    "answer_1": "Emminem",
+    "answer_2": "Drake",
+    "answer_3": "Dua Lipa",
+    "answer_4": "wegzz",
+    "right_ans": "Drake"
+  },
+  {
+    "title": "What car manufacturer had the highest revenue in 2020?",
+    "answer_1": "Audi",
+    "answer_2": "Toyota",
+    "answer_3": "Nissan",
+    "answer_4": "Volkswagen",
+    "right_ans": "Volkswagen"
+  },
+  {
+    "title": "How many elements are in the periodic table?",
+    "answer_1": "112",
+    "answer_2": "116",
+    "answer_3": "118",
+    "answer_4": "132",
+    "right_ans": "118"
+  },
+  {
+    "title": "What country drinks the most coffee per capita?",
+    "answer_1": "Finland",
+    "answer_2": "Norway",
+    "answer_3": "Saudi Arabia",
+    "answer_4": "Denmark",
+    "right_ans": "Finland"
+  }
+]
